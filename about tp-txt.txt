@@ -1,0 +1,9 @@
+This is taken from "D:\JavaScript\amazing-TF-words"
+The index.html is from 
+"index-amazing-w-menu.html"
+
+To convert Excel word data to json, or images.xlsx to json, go to
+D:\JavaScript\amazing-TF-words\FirefoxPortable
+and run FirefoxPortable.exe
+
+Pls view "about-index-amazing-w-menu-json-all-browser.rtf" for guides
