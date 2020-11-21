@@ -55,8 +55,11 @@
 	width:180px;	
 	float:right;
 	text-align:center; 	
-    margin-right: 1px;	
-	margin-left: 79%; /* critical  */
+    margin-right: 1px;  
+
+/*	margin-left: 79%;  critical  */
+
+	margin-left: 90%; /* critical  */
 	background-color:#FFF0F0;  /* #4FF050; */
  /* background-color:#FFF0F0; */
 }
