@@ -627,6 +627,7 @@ function pausePlay(){
 		 function getCurTagNextWordInx(){
 				if (mode==="Random"){
 					  getWdInx=Math.floor(Math.random() * (curSelTagTotal-1)) + 1 ; 
+					  
 					  // console.log("random executed") 
 				   }
 				  else if (mode==="Sequential"){
@@ -640,7 +641,11 @@ function pausePlay(){
 								  if (getWdInx>0)getWdInx--
 									else getWdInx=curSelTagTotal-1;						 
 						 }
-				  }				 
+				  }		
+
+            getWdInx=912;// need to delete. For testing purpose
+			
+				  
 	   };//-------end  getCurTagNextWordInx()
 	   
 	 
